@@ -10,4 +10,4 @@ una misma computadora a la hora de dar actualizaciones al codigo.
 **Otra razon** es que mas alla de los temas dados en la materia, el Ingeniero tambien muestra carisma, a la
 hora de explicar, una forma entendible y agradable *al menos para mi* y es interesante como se puede combinar 
 la explicacion con lo casual, no se siente tan "robotica" la materia a la hora de dar explicaciones como si solo
-viniera a leer un PDf y listo, si no que se siente mas natural y eso se agradece 
+viniera a leer un PDf y listo, si no que se siente mas natural y eso se agradece.
